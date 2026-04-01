@@ -13,7 +13,7 @@ El proyecto está diseñado con una arquitectura modular para facilitar el apren
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/LuEysele/weather-app.git>
 cd weather-app
 ```
 
